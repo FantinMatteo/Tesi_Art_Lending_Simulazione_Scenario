@@ -9,6 +9,7 @@ per sottolineare le caratteristiche chiave del mercato di riferimento e costruir
 Il dataset è composto da due file:
 
 *database_casorati.xlsx: Il file in formato Excel con i dati grezzi.
+
 *database_casorati_pulito.csv: Una versione del dataset pulita e pronta per l'analisi, salvata in formato CSV per garantire la massima compatibilità con gli strumenti di analisi dati (es. Python, R).
 
 ### Anteprima del Dataset Pulito
