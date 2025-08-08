@@ -26,10 +26,12 @@ Il dataset è composto da due file:
 I dati sono stati raccolti manualmente da banche dati di case d'asta e database di mercato.
 
 ### Note 
-*Nel dataset, gli asterischi (*) accanto al nome dell'opera indicano il numero di volte che l'opera è stata battuta all'asta, come segue:
+
+*Nel dataset, gli asterischi accanto al nome dell'opera indicano il numero di volte che l'opera è stata battuta all'asta, come segue:
 Nessun asterisco: l'opera è stata venduta per la prima volta.
 Un asterisco (*): l'opera è stata venduta per la seconda volta.
 Due asterischi (**): l'opera è stata venduta per la terza volta.
+
 *Nel dataset pulito la colomma (Genere/Materiale) specifica la natura dell'opera:
 (1) indica che si tratta di un dipinto
 (0) indica che si tratta di altro
