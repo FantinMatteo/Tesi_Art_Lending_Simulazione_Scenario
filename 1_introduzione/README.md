@@ -10,8 +10,7 @@ L'**Art Lending** può fungere da strumento di finanziamento efficace per sosten
 
 ### Cos'è l'Art Lending
 
-L'Art Lending è un'operazione finanziaria, attraverso la quale un individuo può ottenere un prestito offrendo in garanzia una 
-o più opere d'arte.
+L'Art Lending è un'operazione finanziaria, attraverso la quale un individuo può **ottenere un prestito offrendo in garanzia una o più opere d'arte**.
 
 ### Sintesi del progetto
 
