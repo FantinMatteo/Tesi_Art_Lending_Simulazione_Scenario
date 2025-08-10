@@ -15,14 +15,22 @@ L'Art Lending è un'operazione finanziaria, attraverso la quale un individuo pu�
 ### Sintesi del progetto
 
 Il progetto di tesi si apre definendo il concetto di Art Lending, riportando gli aspetti positivi della pratica e 
-sottolineando 
-le diverse criticità.
-Un focus particolare è stato concesso al mercato dell'arte, attraverso il commento della panoramica che lega insieme il 
-sistema culturale italiano, i collezionisti privati e gli istituti di credito.
+sottolineando le diverse criticità.
+Il corpo centrale della ricerca si occupa di analizzare il mercato dell'arte, commentando il legame tra il sistema culturale 
+italiano, i collezionisti privati e gli istituti di credito.
 Il cuore del progetto è un **caso studio quantitativo** in cui viene simulata l'operazione di Art Lending per finanziare un 
 progetto espositivo. 
 Attraverso questa simulazione, il lavoro dimostra concretamente come questo strumento possa essere 
 utilizzato per **sostenere iniziative di valorizzazione** culturale, superando le sfide economiche del settore.
 
-### Highlights e Risultati Chiave
+### Il Caso studio
+
+Un gruppo di collezionisti decide di fondare l’associazione “Felice Casorati”, con l’obiettivo 
+di organizzare l’esposizione delle opere dell’artista grazie all’ausilio dei nuovi strumenti di 
+72 
+funding culturale, ritenuti in grado di agevolare l’iniziativa privata svincolata dal contributo 
+pubblico. 
+In particolare, il programma prevede di sfruttare il meccanismo del prestito artistico (Art 
+Lending) per ottenere i fondi necessari alla copertura dei costi della mostra, ponendo come 
+garanzia il valore delle collezioni personali.
 
