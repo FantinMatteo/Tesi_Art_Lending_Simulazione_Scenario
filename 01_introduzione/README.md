@@ -18,7 +18,7 @@ culturale?
 L'Art Lending è un'operazione finanziaria, attraverso la quale un individuo può **ottenere un prestito offrendo in garanzia 
 una o più opere d'arte**.
 
-# Sintesi del progetto
+## Sintesi del progetto
 
 Il progetto di tesi si apre definendo il concetto di Art Lending, riportando gli aspetti positivi della pratica e 
 sottolineando le diverse criticità.
