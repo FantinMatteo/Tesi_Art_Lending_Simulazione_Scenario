@@ -18,7 +18,7 @@ culturale?
 L'Art Lending è un'operazione finanziaria, attraverso la quale un individuo può **ottenere un prestito offrendo in garanzia 
 una o più opere d'arte**.
 
-## Sintesi del progetto
+### Sintesi del progetto
 
 Il progetto di tesi si apre definendo il concetto di Art Lending, riportando gli aspetti positivi della pratica e 
 sottolineando le diverse criticità.
@@ -31,7 +31,7 @@ utilizzato per **sostenere iniziative di valorizzazione** culturale, superando l
 
 ### Il Caso studio
 
-Un gruppo di collezionisti decide di fondare l’associazione “Felice Casorati”, con l’obiettivo di organizzare l’esposizione delle opere 
-dell’artista grazie all’ausilio dei nuovi strumenti di funding culturale, ritenuti in grado di agevolare l’iniziativa privata svincolata dal 
+Un gruppo di collezionisti decide di fondare l’**associazione “Felice Casorati”**, con l’obiettivo di organizzare l’esposizione delle opere 
+dell’artista grazie all’ausilio dei nuovi strumenti di funding culturale, ritenuti in grado di **agevolare l’iniziativa privata** svincolata dal 
 contributo pubblico. 
 
