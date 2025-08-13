@@ -34,4 +34,19 @@ utilizzato per **sostenere iniziative di valorizzazione** culturale, superando l
 Un gruppo di collezionisti decide di fondare l’**associazione “Felice Casorati”**, con l’obiettivo di organizzare l’esposizione delle opere 
 dell’artista grazie all’ausilio dei nuovi strumenti di funding culturale, ritenuti in grado di **agevolare l’iniziativa privata** svincolata dal 
 contributo pubblico. 
+La stima della gestione caratterististica evidenzia il gap tra costi e ricavi, delineando la formazione di uno scenario negativo, caratterizzato 
+dalla **perdita economica**.
+Con lo scopo di non lasciar naufragare l'intero progetto, l'associazione decide di finanziare la realizzazione attraverso un'**operazione di Art 
+Lending**, grazie alla quale ottiene le risorse utili ad avviare l'impresa.
+
+### Risultati
+
+I risultati dimostrano come un'operazione di Art Lending possa rappresentare un modo innovativo ed efficace per finanziare un progetto culturale, 
+ma mette in luce la questione spinosa della restituzione del debito.
+
+### Conclusioni
+
+Il mio obiettivo era quello di unire le intenzioni del mondo economico e del mondo culturale
+
+
 
