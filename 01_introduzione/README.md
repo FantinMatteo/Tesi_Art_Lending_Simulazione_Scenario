@@ -41,12 +41,15 @@ Lending**, grazie alla quale ottiene le risorse utili ad avviare l'impresa.
 
 ### Risultati
 
-I risultati dimostrano come un'operazione di Art Lending possa rappresentare un modo innovativo ed efficace per finanziare un progetto culturale, 
-ma mette in luce la questione spinosa della restituzione del debito.
+I risultati dimostrano come un'operazione di Art Lending possa rappresentare un modo innovativo ed efficace per **finanziare un progetto 
+culturale**, ma mette in luce la questione spinosa della restituzione del debito.
 
 ### Conclusioni
 
-Il mio obiettivo era quello di unire le intenzioni del mondo economico e del mondo culturale
-
-
-
+Il mio obiettivo era quello di **unire le intenzioni del mondo economico e del mondo culturale**, attraverso l'analisi di uno scenario verosimile 
+nel quale sviluppare un'operazione di Art lending.
+**Ci sono riuscito? Io credo di sì**.
+Solitamente, la comunità scientifica, in particolare quella umanistica, vede con scetticismo la fusione tra arte e strumenti finanziari, perchè la 
+considera un atto dissacrante.
+Invece, la mia ricerca mostra come la loro unione permetta la nascita di un progetto di valorizzazione culturale, nettamente slegato dalle mire 
+speculative e fortemente orientato all'**arricchimento intellettuale della comunità**.
