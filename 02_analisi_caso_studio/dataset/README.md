@@ -36,6 +36,6 @@ Nessun asterisco: l'opera è stata venduta per la prima volta.
 Un asterisco (*): l'opera è stata venduta per la seconda volta.
 Due asterischi (**): l'opera è stata venduta per la terza volta.
 
-Nel dataset pulito la colonna (Genere/Materiale) specifica la natura dell'opera:
+Nel dataset pulito la colonna (Genere) specifica la natura dell'opera:
 (1) indica che si tratta di un dipinto
 (0) indica che si tratta di altro
