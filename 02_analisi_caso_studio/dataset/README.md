@@ -1,12 +1,14 @@
 # Dataset: Aste di Felice Casorati (2005-2023)
 
 ### Descrizione
+
 Questo dataset raccoglie i dati delle vendite registrate all'asta dall'artista Felice Casorati nell'intervallo temporale 2005-2023.
 L'insieme dei dati raccolti è stato utilizzato nel contesto della tesi "Art Lending - Impiego di strumenti innovativi nell’ambito della 
 valorizzazione culturale"
 per sottolineare le caratteristiche chiave del mercato di riferimento e costruire la simulazione finanziaria dell'operazione.
 
 ### Struttura e Contenuto
+
 Il dataset è composto da due file:
 
 *database_casorati.xlsx: Il file in formato Excel con i dati grezzi.
@@ -15,14 +17,13 @@ Il dataset è composto da due file:
 compatibilità con gli strumenti di analisi dati (es. Python, R).
 
 ### Anteprima del Dataset Pulito
-| Opera | Anno | Genere/Materiale | Stima_Min | Stima_Max | Prezzo_Martello |
-|---|---|---|---|---|---|---|
-| Le Pere Verdi o Quattro Pere sul Panno | 0 | 2023-11-28 | 20000 | 30000 | 46800 | 
-| Nudo Seduto Davanti all'Inferriata | 0 | 2021-11-23 | no | no | 18200 | 
-| Figura con Mano sul Viso | 2021-11-18 | 1 | 2000 | 3000 | 2750 | 
-| Maternità | 2020-12-12 | 1 | 70000 | 100000 | 70000 | 
-| La Madre (Maternità) | 2020-12-12 | 1 | 50000 | 70000 | 54000 |
-| Nudi nello Studio | 2020-12-12 | 1 | 10000 | 15000 | 11000 | 
+
+ Opera  Genere  Data Asta  Estimate_min Estimate_Max Hammer_p
+    Le Pere Verdi o Quattro Pere sul Pan       0 2023-11-28         20000         30000     46800
+                  Figura con Ma sul Viso       1 2021-11-18          2000          3000      2750
+                                    Nudo       1 2020-12-12          4500          6000      3800
+                                    Nudo       1 2020-12-12          4500          6000      3800
+                     Nudi nello Studio**       1 2020-12-12         10000         15000     11000
 
 ### Fonte dei Dati
 I dati sono stati raccolti manualmente da banche dati di case d'asta e database di mercato.
