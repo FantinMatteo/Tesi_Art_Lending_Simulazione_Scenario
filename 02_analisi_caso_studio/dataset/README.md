@@ -18,14 +18,15 @@ compatibilità con gli strumenti di analisi dati (es. Python, R).
 
 ### Anteprima del Dataset Pulito
 
- Opera  Genere  Data Asta  Estimate_min Estimate_Max Hammer_p
-    Le Pere Verdi o Quattro Pere sul Pan       0 2023-11-28         20000         30000     46800
-                  Figura con Ma sul Viso       1 2021-11-18          2000          3000      2750
-                                    Nudo       1 2020-12-12          4500          6000      3800
-                                    Nudo       1 2020-12-12          4500          6000      3800
-                     Nudi nello Studio**       1 2020-12-12         10000         15000     11000
+                                    Opera  Genere  Data Asta  Estimate_min  Estimate_Max  Hammer_p
+0    Le Pere Verdi o Quattro Pere sul Pan       0 2023-11-28         20000         30000     46800
+1                  Figura con Ma sul Viso       1 2021-11-18          2000          3000      2750
+2                                    Nudo       1 2020-12-12          4500          6000      3800
+3                                    Nudo       1 2020-12-12          4500          6000      3800
+4                     Nudi nello Studio**       1 2020-12-12         10000         15000     11000
 
 ### Fonte dei Dati
+
 I dati sono stati raccolti manualmente da banche dati di case d'asta e database di mercato.
 
 ### Note 
