@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #PARTE1: ---PREPARAZIONE DATI---
+
 #Leggiamo il dataset delle vendite all'asta di Casorati, in versione pulita = 220 osservazioni
 df_Casorati = pd.read_excel('Database_pulito.xlsx')
 #Salvare dataset in formato csv 
@@ -64,3 +65,4 @@ plt.tight_layout()
 #Salvare grafico
 plt.savefig('confronto_prezzi.png')
 print("3) grafico di confronto prezzi generato")
+
