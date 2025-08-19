@@ -95,7 +95,7 @@ ax.legend()
 plt.tight_layout()
 plt.savefig('distribuzione_costi.png')
 
-print("Simulazione Monte Carlo completata.")
+print("Simulazione Monte Carlo costi completata")
 print(f"Costo medio: {media:.2f} €")
 print(f"Mediana: {mediana:.2f} €")
 print(f"Primo quartile: {primo_quartile:.2f} €")
@@ -147,9 +147,58 @@ ax.legend()
 plt.tight_layout()
 plt.savefig('distribuzione_ricavi.png')
 
-print("Simulazione Monte Carlo completata.")
+print("Simulazione Monte Carlo ricavi completata")
 print(f"Ricavo medio: {media:.2f} €")
 print(f"Mediana: {mediana:.2f} €")
 print(f"Primo quartile: {primo_quartile:.2f} €")
 print(f"Terzo quartile: {terzo_quartile:.2f} €")
 print("4) Grafico generato e salvato come distribuzione_ricavi.png")
+
+# Simulazione del margine medio
+# Estrarre i valori per la simulazione
+costi = pd.read_excel("dettaglio_costi.xlsx")
+ricavi = pd.read_excel("stima_ricavi.xlsx")
+
+# Dati per la simulazione
+numero_simulazioni = 10000
+margini_simulati = []
+
+# Esegui la simulazione Monte Carlo
+for _ in range(numero_simulazioni):
+    costo_totale = 0
+    ricavo_totale = 0
+    # Genera un costo casuale per ogni categoria
+    for index, row in costi.iterrows():
+        costo_casuale = np.random.uniform(row['p_min'], row['p_Max'])
+        costo_totale += costo_casuale
+    # Genera un ricavo casuale per ogni categoria
+    for index, row in ricavi.iterrows():
+        ricavo_casuale = np.random.uniform(row['min'], row['max'])
+        ricavo_totale += ricavo_casuale
+    
+    # Calcola il margine e aggiungilo alla lista
+    margine = ricavo_totale - costo_totale
+    margini_simulati.append(margine)
+
+# Convertire i risultati in un DataFrame per l'analisi
+df_risultati_margine = pd.DataFrame(margini_simulati, columns=['Margine Totale (€)'])
+
+# Creare il grafico
+fig, ax = plt.subplots(figsize=(10, 6))
+df_risultati_margine.hist(ax=ax, bins=50, color='black', edgecolor='black', alpha=0.7)
+plt.xlim(left=min(df_risultati_margine['Margine Totale (€)']), right=0)
+
+# Impostazioni del grafico
+ax.set_title('Distribuzione del Margine Totale (Simulazione Monte Carlo)')
+ax.set_xlabel('Margine Totale (€)')
+ax.set_ylabel('Frequenza')
+
+plt.tight_layout()
+plt.savefig('distribuzione_margine.png')
+
+print("Simulazione Monte Carlo margine completata")
+print(f"Margine medio: {media:.2f} €")
+print(f"Mediana: {mediana:.2f} €")
+print(f"Primo quartile: {primo_quartile:.2f} €")
+print(f"Terzo quartile: {terzo_quartile:.2f} €")
+print("5) Grafico generato e salvato come distribuzione_margine.png")
