@@ -3,17 +3,14 @@ import numpy as np
 
 # Funzione per trovare tutte le combinazioni di subset
 def subset_sum(numbers, target, partial=[], all_combinations=[]):
-    """
-    Funzione ricorsiva per trovare tutte le combinazioni di numeri
-    che sommati danno un valore target.
-    """
+   
     s = sum(partial)
 
-    # Se la somma è uguale al target, abbiamo trovato una soluzione
+    # Se la somma è uguale al target è stata trovata una soluzione
     if s == target:
         all_combinations.append(partial)
     
-    # Se la somma è maggiore del target, interrompiamo la ricorsione
+    # Se la somma è maggiore del target = interrompere
     if s >= target:
         return
 
@@ -25,12 +22,10 @@ def subset_sum(numbers, target, partial=[], all_combinations=[]):
     
     return all_combinations
 
-# --- CODICE PRINCIPALE ---
+# -- SUBSET SUM PROBLEM --
 opere = pd.read_excel('Database_pulito.xlsx')
 
-
-# L'insieme S è rappresentato dai prezzi di martello
-# Rimuoviamo i valori 0 e NaN per evitare errori di calcolo
+# L'insieme S è rappresentato dai H_p
 prezzi = opere['Hammer_p'].dropna().tolist()
 prezzi = [int(p) for p in prezzi if p > 0]
 
@@ -39,7 +34,7 @@ valore_garanzia = 245000
 
 print(f"Ricerca di combinazioni per un valore di garanzia di {valore_garanzia}€...")
 
-# Eseguiamo l'algoritmo
+# Eseguire algoritmo
 combinazioni_trovate = subset_sum(prezzi, valore_garanzia)
 
 if combinazioni_trovate:
