@@ -8,6 +8,7 @@ Questa cartella rappresenta il cuore del progetto: partendo dall'analisi del dat
 - file 01
 - file 02
 - file 03
+
 Questi file spiegano attraverso immagini e brevi didascalie tutto il processo sottostante l'operazione finanziaria.
 - cartella codice 
 - cartella dataset
