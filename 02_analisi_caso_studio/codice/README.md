@@ -1,1 +1,2 @@
-Questa è la cartella che contiene tutti i codici del progetto
+In questa cartella sono inseriti i codici concepiti per lo sviluppo dei grafici inseriti nel progetto (link).
+Inoltre, il file subset_sum_problem.py riporta l'algoritmo combinatorio utilizzato nell'ambito dell'operazione finanziaria (file operazione art lending)
