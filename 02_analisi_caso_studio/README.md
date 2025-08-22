@@ -1,10 +1,10 @@
-*analisi caso studio*
+***ANALISI CASO STUDIO***
 
-***disclaimer***
+*DISCLAIMER*
 
 Questa cartella rappresenta il cuore del progetto: partendo dall'analisi del dataset di riferimento, si sviluppa l'analisi dello scenario, fino al risultato e alle considerazioni finali.
 
-***contenuto***
+*CONTENUTO*
 - file 01
 - file 02
 - file 03
