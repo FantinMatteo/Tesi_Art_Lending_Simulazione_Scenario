@@ -9,7 +9,9 @@ sottoponimento di un'opera d'arte come garanzia.
 ## IL PROGETTO ##
 
 La domanda di ricerca del progetto è chiara: 
+
 **é possibile finanziarie un progetto di valorizzazione attraverso un'operazione di Art Lending?**
+
 Nelle cartelle del progetto sono inserite le fasi di sviluppo di tutto il lavoro di ricerca, soprattutto della sezione dedicata all'ottenimento 
 delle risorse da coinvolgere nella realizzazione dell'iniziativa divulgativa.
 
